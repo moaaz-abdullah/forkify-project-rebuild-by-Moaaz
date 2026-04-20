@@ -1,6 +1,8 @@
-# 🍴 Forkify App | https://moaazify.netlify.app/
+# 🍴 Forkify App
 
 Forkify is a modern web application that allows users to search, view, bookmark, and upload recipes. The app is built using Vanilla JavaScript and follows the MVC (Model-View-Controller) architecture.
+
+URL : https://moaazify.netlify.app/
 
 ## 🚀 Features
 - 🔍 Search for recipes using the Forkify API
