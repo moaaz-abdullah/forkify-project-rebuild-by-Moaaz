@@ -159,8 +159,6 @@ const init = function () {
 
   // Add recipe
   addRecipeView.addHandlerUpload(controlAddRecipe);
-
-  console.log('hi');
 };
 
 init();
