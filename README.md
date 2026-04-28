@@ -75,7 +75,6 @@ The project is structured using the **MVC pattern**:
 ## 📸 Demo
 
 <img width="665" height="702" alt="image" src="https://github.com/user-attachments/assets/7a37fae4-23d9-47ee-a595-1ac1225e1b3e" />
-<img width="1192" height="734" alt="image" src="https://github.com/user-attachments/assets/a3fca009-1193-4188-ac30-7390df4060b6" />
 
 ---
 
