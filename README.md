@@ -81,6 +81,7 @@ The project is structured using the **MVC pattern**:
 ## 🔗 Live Demo
 
 *(https://moaazify.netlify.app/)*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/76786941-fa78-4791-b265-bff7065156f5" />
 
 ---
 
