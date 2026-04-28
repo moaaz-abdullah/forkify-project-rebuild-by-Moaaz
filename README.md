@@ -1,6 +1,4 @@
 # 🍴 Forkify App
-# 🍽️ Forkify App
-
 Forkify is a modern web application that allows users to **search, view, bookmark, and upload recipes**.
 The app is built using **Vanilla JavaScript** and follows the **MVC (Model-View-Controller)** architecture.
 
@@ -76,7 +74,7 @@ The project is structured using the **MVC pattern**:
 
 ## 📸 Demo
 
-*(Add screenshots or GIF here)*
+<img width="665" height="702" alt="image" src="https://github.com/user-attachments/assets/7a37fae4-23d9-47ee-a595-1ac1225e1b3e" />
 
 ---
 
