@@ -1,6 +1,6 @@
 import fracty from 'fracty';
 import View from './view';
-import icons from 'url:/img/icons.svg';
+import icons from 'url:../img/icons.svg';
 
 /**
  * Recipe View
