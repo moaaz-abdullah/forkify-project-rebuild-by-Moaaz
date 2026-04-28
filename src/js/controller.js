@@ -73,7 +73,7 @@ const controlServings = function (newServings) {
   // Update servings in state
   model.updateServings(newServings);
 
-  // Update UI بدون إعادة render كاملة
+  // Update UI
   recipeView.update(model.state.recipe);
 };
 
